@@ -1,1 +1,3 @@
-# AppReceitas
+# AppReceitas - EXPO
+
+----- EM ANDAMENTO -----
