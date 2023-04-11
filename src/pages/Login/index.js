@@ -1,13 +1,22 @@
-import { View, Text, StyleSheet } from "react-native";
+import { View, Text, StyleSheet, TextField } from "react-native";
 
 export function Login() {
   return (
-    <View>
-      <Text>Página de Login e Cadastro!!!</Text>
+    <View style={styles.container}>
+      <TextField
+        label={'Email'}
+        placeholder={'Digite seu email'}
+        onChangeText={text => setValue('email', text)}
+      />
+      <TextField
+        label={'Senha'}
+        placeholder={'Digite sua senha'}
+        onChangeText={text => setValue('password', text)}
+      />
     </View>
   );
 }
 
 const styles = StyleSheet.create({
-    
+
 });
