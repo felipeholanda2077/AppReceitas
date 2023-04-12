@@ -1,3 +1,3 @@
 # AppReceitas - EXPO
 
------ EM ANDAMENTO -----
+----- FINALIZADO -----
