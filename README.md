@@ -12,8 +12,10 @@ Um App para visualização de receitas atraves de uma API que puxa dados localme
 2. Abra o projeto no Visual Studio Code
 3. Abra o Terminal e execute o comando `npm install` para instalar os módulos do Node.
 4. Use o comando `react-native link` para que todos os assets sejam linkados ao projeto
-5. Execute o projeto com `npx expo start` ou `expo run:android` se desejar que o firebase funcione dentro da aplicação.
+5. Execute o projeto com `npx expo start` ou `expo run:android` se desejar que o firebase funcione dentro da aplicação para sicronizar a API.
 6. Enjoy!
+
+OBS: Deverá ser utilizado tambem o comando dentro da pasta no terminal a seguir com as informações de IP: "json-server --watch -d 180 --host [SEU IP DO DISPOSITIVO] db.json"
 
 <br>
 
