@@ -15,7 +15,8 @@ Um App para visualização de receitas atraves de uma API que puxa dados localme
 5. Execute o projeto com `npx expo start` ou `expo run:android` se desejar que o firebase funcione dentro da aplicação para sicronizar a API.
 6. Enjoy!
 
-OBS: Deverá ser utilizado tambem o comando dentro da pasta no terminal a seguir com as informações de IP: "json-server --watch -d 180 --host [SEU IP DO DISPOSITIVO] db.json"
+OBS: Deverá ser utilizado tambem o comando dentro da pasta no terminal a seguir com as informações de IP: 
+"json-server --watch -d 180 --host [SEU IP DO DISPOSITIVO] db.json"
 
 <br>
 
