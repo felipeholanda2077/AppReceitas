@@ -35,6 +35,7 @@ OBS: Deverá ser utilizado tambem o comando dentro da pasta no terminal a seguir
 ### Ferramentas
 
   - [**VS CODE**](https://code.visualstudio.com/)
+  - [**REACT NATIVE**](https://reactnative.dev/)
   - [**EXPO**](https://getbootstrap.com/)
 
 
